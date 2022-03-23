@@ -4,7 +4,7 @@
    * Create By YanzBotz.
 
 
-   * Contact Me on wa.me/48459088084
+   * Contact Me on wa.me/48699532476
 
 
    * Follow https://github.com/Dapabot
@@ -56,10 +56,10 @@ global.APIKeys = {
 // Other
 
 
-global.owner = [ '48459088084' ]
+global.owner = [ '48729759866' ]
 
 
-global.premium = ['48459088084']
+global.premium = ['48729759866']
 
 
 global.packname = 'Yanz Botz'
